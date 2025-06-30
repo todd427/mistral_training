@@ -1,0 +1,3 @@
+python train_lora.py \
+  --data /home/todd/linux/Projects/todd/Con00/toddbot_v1_qa_dataset.jsonl \
+  --output /home/todd/linux/Projects/todd/Con00/mistral_lora_project/output/todd-2025-v1
